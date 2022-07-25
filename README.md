@@ -1,4 +1,4 @@
-# kurdish_names_app
+# Kurdish Names App (We Code Bootcamp Assignment)
 
 A new Flutter project.
 
